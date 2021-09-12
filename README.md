@@ -4,7 +4,7 @@ This repository contains datasets that have been used for research on politeness
 
 ## v0.1
 
-This directory contains the dataset used for training and testing the system described in the PhD thesis by Ritesh Kumar, titled "Politeness in Online Hindi Texts: Pragmatic and Computational Aspects", submitted in 2014 under the supervision of Prof. Ayesha Kidwai and Prof. Girish Nath Jha at Jawaharlal Nehru University, New Delhi. A demo of the tool developed is available here - 
+This directory contains the dataset used for training and testing the system described in the PhD thesis by Ritesh Kumar, titled "Politeness in Online Hindi Texts: Pragmatic and Computational Aspects", submitted in 2014 under the supervision of Prof. Ayesha Kidwai and Prof. Girish Nath Jha at Jawaharlal Nehru University, New Delhi. A demo of the tool developed is available here - [Politeness Recognition Tool PoRT] (http://sanskrit.jnu.ac.in/port/index.jsp)
 
 The code and model trained for this system will soon be released as well.
 

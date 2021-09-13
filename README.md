@@ -57,3 +57,6 @@ Thanks to Deepak, Atul and everyone else who helped in annotation of the v0.1 da
 
 Also thanks to Shyam, Siddharth, Sonal and Yogesh for annotating the parts of v0.2 of the dataset.
 
+## Contact
+
+For any queries / suggestions / offer for collaboration, you may contact ritesh78_llh@jnu.ac.in

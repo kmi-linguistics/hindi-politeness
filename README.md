@@ -28,28 +28,28 @@ If you are using the v0.1 dataset then you may cite either the thesis or the LRE
 
 Thesis Citation
 
->@phdthesis{kumar_politeness_2014,
->	address = "New Delhi",
->	title = "Politeness in "Online" "Hindi" "Texts": "Pragmatic" and "Computational" "Aspects"",
->	url = "http://sanskrit.jnu.ac.in/port/thesis/ritesh-thesis.pdf",
->	school = "Jawaharlal Nehru University",
->	author = "Kumar, Ritesh",
->	year = "2014",
->}   
+    @phdthesis{kumar_politeness_2014,
+        address = "New Delhi",
+        title = "Politeness in "Online" "Hindi" "Texts": "Pragmatic" and "Computational" "Aspects"",
+        url = "http://sanskrit.jnu.ac.in/port/thesis/ritesh-thesis.pdf",
+        school = "Jawaharlal Nehru University",
+        author = "Kumar, Ritesh",
+        year = "2014",
+    }   
 
 LREC 2014 Paper Citation
 
-> @inproceedings{kumar-2014-developing,
->    title = "Developing Politeness Annotated Corpus of {H}indi Blogs",
->    author = "Kumar, Ritesh",
->    booktitle = "Proceedings of the Ninth International Conference on Language Resources and Evaluation ({LREC}'14)",
->    month = may,
->    year = "2014",
->    address = "Reykjavik, Iceland",
->    publisher = "European Language Resources Association (ELRA)",
->    url = "http://www.lrec-conf.org/proceedings/lrec2014/pdf/594_Paper.pdf",
->    pages = "1275--1280",
-> }
+    @inproceedings{kumar-2014-developing,
+        title = "Developing Politeness Annotated Corpus of {H}indi Blogs",
+        author = "Kumar, Ritesh",
+        booktitle = "Proceedings of the Ninth International Conference on Language Resources and Evaluation ({LREC}'14)",
+        month = may,
+        year = "2014",
+        address = "Reykjavik, Iceland",
+        publisher = "European Language Resources Association (ELRA)",
+        url = "http://www.lrec-conf.org/proceedings/lrec2014/pdf/594_Paper.pdf",
+        pages = "1275--1280",
+    }
 
 ## Acknowledgments
 

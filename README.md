@@ -15,7 +15,7 @@ The train, dev and test data in this directory are in tab-separated format where
 
 ## v0.2
 
-This directory contains an extension of the above-mentioned dataset with new data from different social media platforms being added to the older dataset. Moreover it is now annotated with three top-level classes - Neutral, Polite and Impolite (with politic and polite being merged into one class) - and a rich annotation of different kinds of structures viz honorific verb forms, honorific pronouns, subjunctive, passive, deontics, etc. This dataset forms the basis of the findings discussed in an upcoming book titled "Politeness in Hindi" to be published by Routledge (currently under review).
+This directory contains an extension of the above-mentioned dataset with new data from different social media platforms being added to the older dataset. Moreover it is now annotated with three top-level classes - Neutral, Polite and Impolite (with politic and polite being merged into one class) - and a rich annotation of different kinds of structures viz honorific verb forms, honorific pronouns, subjunctive, passive, deontics, etc. This dataset forms the basis of the findings discussed in an upcoming book titled "Politeness in Hindi" to be published by Routledge (currently under review) and has been developed in association with the [UnReaL-TecE LLP](http://unreal-tece.co.in/).
 
 ### Data Structure
 
